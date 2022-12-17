@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="avalon.framework" type="repository">
+    <properties maven-id="avalon-framework:avalon-framework:4.1.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/avalon-framework/avalon-framework/4.1.5/avalon-framework-4.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
